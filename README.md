@@ -19,11 +19,11 @@
 
 | Repository | Description |
 |---|---|
-| [Logic-Building-Assignments](https://github.com/<username>/Logic-Building-Assignments) | Logic building programs & assignments in C/C++. |
-| [Chat-Messenger-with-Log-Facility](https://github.com/<username>/Chat-Messenger-with-Log-Facility) | Simple CLI messenger with persistent logs. |
-| [Customised-Virtual-File-System-CVFS](https://github.com/<username>/Customised-Virtual-File-System-CVFS) | Educational VFS: file ops, metadata, and persistence. |
-| [Study-Tracker-Application](https://github.com/<username>/Study-Tracker-Application) | Track topics, sessions, and progress with a minimal UI. |
-| [File-Packer-Unpacker-Project](https://github.com/<username>/File-Packer-Unpacker-Project) | Deterministic packing/unpacking for tidy backups. |
+| [Logic-Building-Assignments](https://github.com/Ram-Thakare/Logic-Building-Assignments) | Logic building programs & assignments in C/C++. |
+| [Chat-Messenger-with-Log-Facility](https://github.com/Ram-Thakare/Chat-Messenger-with-Log-Facility) | Simple CLI messenger with persistent logs. |
+| [Customised-Virtual-File-System-CVFS](https://github.com/Ram-Thakare/Customised-Virtual-File-System-CVFS) | Educational VFS: file ops, metadata, and persistence. 
+| [Study-Tracker-Application](https://github.com/Ram-Thakare/Study-Tracker-Application) | Track topics, sessions, and progress with a minimal UI. |
+| [File-Packer-Unpacker-Project](https://github.com/Ram-Thakare/File-Packer-Unpacker-Project) | Deterministic packing/unpacking for tidy backups. |
 
 > Tip: Pin these repos from profile → customize pins to mirror this section. 
 
@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats
 
 <!-- Replace <username> with your GitHub handle -->
-![Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_title=false) [web:52]
+![Stats](https://github-readme-stats.vercel.app/api?username=Ram-Thakare&show_icons=true&theme=tokyonight&hide_title=false) [web:52]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&langs_count=10&theme=tokyonight) [web:52]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Thakare&layout=compact&langs_count=10&theme=tokyonight) [web:52]
 
 ---
 
