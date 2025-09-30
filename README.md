@@ -25,8 +25,6 @@
 | [Study-Tracker-Application](https://github.com/Ram-Thakare/Study-Tracker-Application) | Track topics, sessions, and progress with a minimal UI. |
 | [File-Packer-Unpacker-Project](https://github.com/Ram-Thakare/File-Packer-Unpacker-Project) | Deterministic packing/unpacking for tidy backups. |
 
-> Tip: Pin these repos from profile → customize pins to mirror this section. 
-
 ---
 
 ## 🔎 Main Focus
@@ -47,9 +45,9 @@
 ## 📊 GitHub Stats
 
 <!-- Replace <username> with your GitHub handle -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Ram-Thakare&show_icons=true&theme=tokyonight&hide_title=false) [web:52]
+![Stats](https://github-readme-stats.vercel.app/api?username=Ram-Thakare&show_icons=true&theme=tokyonight&hide_title=false) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Thakare&layout=compact&langs_count=10&theme=tokyonight) [web:52]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram-Thakare&layout=compact&langs_count=10&theme=tokyonight)
 
 ---
 
@@ -62,7 +60,3 @@
 
 Thanks for visiting—if a project helps, a star means a lot! 🚀 
 
-<!-- Setup notes:
-1) Create a public repo named exactly <username> and place this README.md to show it on the profile. [web:31]
-2) Stats cards are from github-readme-stats; tweak theme/layout via URL params. [web:52]
--->
