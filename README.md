@@ -19,7 +19,7 @@
 
 | Repository | Description |
 |---|---|
-| [Logic-Building-Assignments](https://github.com/Ram-Thakare/Logic-Building-Assignments) | Logic building programs & assignments in C/C++. |
+| [Logic-Building-Assignments](https://github.com/Ram-Thakare/Logic-Building-Assignments) | Logic building programs & practice assignments in C/C++/Java. |
 | [Chat-Messenger-with-Log-Facility](https://github.com/Ram-Thakare/Chat-Messenger-with-Log-Facility) | Simple CLI messenger with persistent logs. |
 | [Customised-Virtual-File-System-CVFS](https://github.com/Ram-Thakare/Customised-Virtual-File-System-CVFS) | Educational VFS: file ops, metadata, and persistence. 
 | [Study-Tracker-Application](https://github.com/Ram-Thakare/Study-Tracker-Application) | Track topics, sessions, and progress with a minimal UI. |
