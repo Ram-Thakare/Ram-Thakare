@@ -84,7 +84,7 @@ A fitness tracking web application built using Java MVC Architecture.
 
 | Project | Description |
 |----------|-------------|
-| FitTrack | Fitness tracking web application using Java MVC architecture |
+| FitTrack(https://github.com/Ram-Thakare/FitTrack) | Fitness tracking web application using Java MVC architecture |
 | Generalised Data Structures Library | Custom implementation of reusable data structures |
 | Customised Virtual File System | Simulated file system with file operations and metadata |
 | File Packer Unpacker | File compression and packaging utility |
