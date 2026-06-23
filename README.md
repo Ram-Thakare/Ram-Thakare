@@ -84,13 +84,12 @@ A fitness tracking web application built using Java MVC Architecture.
 
 | Project | Description |
 |----------|-------------|
-| FitTrack(https://github.com/Ram-Thakare/FitTrack) | Fitness tracking web application using Java MVC architecture |
-| Generalised Data Structures Library | Custom implementation of reusable data structures |
-| Customised Virtual File System | Simulated file system with file operations and metadata |
-| File Packer Unpacker | File compression and packaging utility |
-| Chat Messenger with Log Facility | Console-based chat application with logging |
-| Logic Building Assignments | Programming practice and problem-solving exercises |
-
+| [FitTrack](https://github.com/Ram-Thakare/FitTrack) | Fitness tracking web application using Java MVC architecture |
+| [Generalised Data Structures Library](https://github.com/Ram-Thakare/Generalised-Data-Structures-Library) | Custom implementation of reusable data structures |
+| [Customised Virtual File System](https://github.com/Ram-Thakare/Customised-Virtual-File-System-CVFS) | Simulated file system with file operations and metadata |
+| [File Packer Unpacker](https://github.com/Ram-Thakare/File-Packer-Unpacker-Project) | File compression and packaging utility |
+| [Chat Messenger with Log Facility](https://github.com/Ram-Thakare/Chat-Messenger-with-Log-Facility) | Console-based chat application with logging |
+| [Logic Building Assignments](https://github.com/Ram-Thakare/Logic-Building-Assignments) | Programming practice and problem-solving exercises |
 ---
 
 ## 📚 Currently Learning
