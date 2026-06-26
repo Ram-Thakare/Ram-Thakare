@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ram Madhukar Thakare
 
-🎓 MCA Student | 💻 Java Developer | 🚀 Backend Development Enthusiast
+💻 Java Developer | 🚀 Backend Development Enthusiast
 
 I am a Computer Science graduate currently pursuing MCA and actively seeking Software Developer / Java Developer Internship and Fresher opportunities.
 
